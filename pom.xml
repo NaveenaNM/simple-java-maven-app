@@ -15,10 +15,11 @@
       <version>5.10.0</version>
       <scope>test</scope>
     </dependency>
-    <!-- Add other dependencies here, e.g., Spring Boot dependencies -->
+    <!-- Add Spring Boot Starter Web dependency with version -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
+      <version>3.1.1</version> <!-- Ensure this is a valid version -->
     </dependency>
   </dependencies>
 
